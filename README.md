@@ -15,7 +15,7 @@ Coin Decimals: 18
 Total Supply: 1,000,000,000 KOAM
 Contract Address: 0x5E482759e7d5846f03c34cA4a6a0e7e8c2bf2Cd7
 Coin Explorer: https://etherscan.io/address/0x5E482759e7d5846f03c34cA4a6a0e7e8c2bf2Cd7
-
+Contract Renounced : Tx: https://etherscan.io/tx/0x4a7132d418448a34984ced354a645a3b43d33fbf700c33785f14292c3d673f36
 LOCKED LIQUIDITY : https://app.uncx.network/amm/uni-v2/pair/0xad3770c7adaf1b6e0884f0032b01ed257e17e04c
 
 As of 10-06-23 , KOAMis listed on:
